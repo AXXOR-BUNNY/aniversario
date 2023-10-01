@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sorpresa para Mi Novia</title>
+    <link rel="stylesheet" href="css.css">
+</head>
+<body>
+    <header>
+        <h1>¡Sorpresa para Mi Novia!</h1>
+    </header>
+    <main>
+        <section id="mensaje">
+            <h2>Un mensaje especial para ti</h2>
+            <p>Hola amor,</p>
+            <p>Quiero aprovechar esta página para decirte cuánto te amo y cuánto significas para mí. Eres la persona más importante en mi vida y estoy agradecido/a por cada momento que compartimos juntos.</p>
+            <p>Espero que esta sorpresa te haga sonreír y te haga sentir lo especial que eres para mí.</p>
+            <p>Te amo más de lo que las palabras pueden expresar.</p>
+        </section>
+        <section id="imagen">
+            <h2>Una foto juntos</h2>
+            <img src="" alt="Foto juntos">
+        </section>
+    </main>
+    <footer>
+        <p>© 2023 dante</p>
+    </footer>
+</body>
+</html>
